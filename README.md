@@ -1,6 +1,6 @@
 <h1 align="center">
   <p align="center">Jornada Dev EBAC - Clone do TIK TOK</p>
-  <a href="https://tiktok---jornada-dev.web.app/" target:"_blank"><img src="https://user-images.githubusercontent.com/123211425/230081949-048245b5-a85b-4b91-87b8-7c1a4ff4ab20.png" alt="Tik Tok Logo"></a>
+  <a href="https://tiktok---jornada-dev.web.app/" target:"_blank"><img src="https://media.giphy.com/media/U3rive8V39QioDjmNF/giphy.gif" alt="Tik Tok Logo"></a>
 </h1>
 <div style="display: inline_block"><br>
   <div align="center">
