@@ -14,7 +14,7 @@
 <h3> Sobre o Projeto </h3>
 <p>Este é um projeto desenvolvido durante a jornada Dev, oferecida pela EBAC com duração de sete dias. Utilizamos HTML5, CSS3, JavaScript e o React como framework para criar uma página que copiasse o layout de apresentação de vídeos do Tik Tok. O desafio exigiu um trabalho intenso e muita dedicação de todos os participantes, resultando em um grande aprendizado para todos. Para disponibilizar a página, utilizamos o serviço do Firebase da Google.</p>
 
-<a href="https://tiktok---jornada-dev.web.app/"><b>Acesse aqui a página da Game Shop</b></a>
+<a href="https://tiktok---jornada-dev.web.app/"><b>Acesse aqui a página do projeto</b></a>
 
 
 <h3> Contatos </h3>
